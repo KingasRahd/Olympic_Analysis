@@ -11,3 +11,5 @@ wheels/
 .ipynb_checkpoints/
 uv.lock
 .python-version
+Untitled.ipynb
+test.py
