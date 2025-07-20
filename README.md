@@ -29,5 +29,3 @@ Link to Web App : https://olympicanalysis-akgqy63gejwml3b3uaiiul.streamlit.app/
 🙋‍♂️ Author
 Sagnik
 
-Student @ IIT (ISM) Dhanbad
-
